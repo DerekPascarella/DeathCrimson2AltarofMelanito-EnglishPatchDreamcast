@@ -94,6 +94,7 @@ Even after extensive testing on both real hardware and on emulators, the presenc
  <li>Title screen graphics have been improved and re-rendered.</li>
  <li>All unlockable "Mission Mode" stages are enabled by default.</li>
  <li>VMU save file metadata has been translated into English.</li>
+ <li>Missing disc art PVR has been added for GDmenu users.</li>
  <li>A brand-new cheat function has been implemented (see <a href="#cheat-function">Cheat Function</a> section).</li>
  <li>The built-in web browser has been replaced with special bonus content (see <a href="#bonus-content">Bonus Content</a> section).</li>
   <ul>
@@ -102,6 +103,7 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 </ul>
 
 <h2>About the Game</h2>
+<img align="right" width="180" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/vmu.gif?raw=true">
 <table>
 <tr>
 <td><b>Title</b></td>
@@ -121,7 +123,7 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 </tr>
 <tr>
 <td><b>Supported Peripherals</b></td>
-<td>VGA Box, Jump Pack, Controller, VMU, Light Gun</td>
+<td>VGA Box, Jump Pack, Controller, Light Gun, VMU, Microphone</td>
 </table>
 "Death Crimson 2: Altar of Melanito" (デスクリムゾン２ −メラニートの祭壇−) is a sequel to the original "Death Crimson" game on the SEGA Saturn. Unlike its predecessor, the sequel features a full story mode, fleshing out the backstory behind the game's numerous characters, while also introducing new ones.
 <br><br>
@@ -141,6 +143,7 @@ To learn more about the soundtrack, including credits for songwriters, music arr
 To coincide with the release of this English translation patch, this soundtrack was procured from Japan (read more in <a href="https://twitter.com/DerekPascarella/status/1752792117070504093">this Twitter post</a>) and is available for <a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">download</a> in FLAC, MP3, and OGG formats.
 
 <h2>Voice Recording Feature</h2>
+<img align="right" width="240" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/microphone.jpg?raw=true">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
 
 <h2>A Note for CD-R Users</h2>
