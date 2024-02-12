@@ -134,43 +134,43 @@ Players can use either the standard Dreamcast controller or light gun during the
 <table>
 <tr>
 <td>
-Proceed dialogue / Confirm / Shoot</td>
+<b>Proceed dialogue / Confirm / Shoot</b></td>
 <td>
 A button</td>
 </tr>
 <tr>
 <td>
-Go back / Exit menu / Reload</td>
+<b>Go back / Exit menu / Reload</b></td>
 <td>
 B button</td>
 </tr>
 <tr>
 <td>
-Auto-pilot dialogue progression</td>
+<b>Auto-pilot dialogue progression</b></td>
 <td>
 Hold L/R buttons</td>
 </tr>
 <tr>
 <td>
-Pause</td>
+<b>Pause</b></td>
 <td>
 Start button</td>
 </tr>
 <tr>
 <td>
-Swap character</td>
+<b>Swap character</b></td>
 <td>
 Y button</td>
 </tr>
 <tr>
 <td>
-Run</td>
+<b>Run</b></td>
 <td>
 Hold X button with directional pad</td>
 </tr>
 <tr>
 <td>
-Walk / Run</td>
+<b>Walk / Run</b></td>
 <td>
 Directional pad / Analog stick</td>
 </tr>
