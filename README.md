@@ -65,7 +65,7 @@
     <li>megavolt85</li>
     <li>amerika</li>
    </ul>
-   <li>CDI Optimization Assistance.</li>
+   <li>CDI Optimization Assistance</li>
    <uL>
     <li>Pitito</li>
   </ul>
