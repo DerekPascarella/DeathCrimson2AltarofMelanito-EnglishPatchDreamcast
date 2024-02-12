@@ -16,10 +16,11 @@
 5. [What's Changed](#whats-changed)
 6. [About the Game](#about-the-game)
 7. [Bonus Content](#bonus-content)
-8. [Original Soundtrack](#original-soundtrack)
-9. [Voice Recording Feature](#voice-recording)
-10. [A Note for CD-R Users](#a-note-for-cdr-users)
-11. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
+8. [Cheat Function](#cheat-function)
+9. [Original Soundtrack](#original-soundtrack)
+10. [Voice Recording Feature](#voice-recording)
+11. [A Note for CD-R Users](#a-note-for-cdr-users)
+12. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
 
 <h2>Patching Instructions</h2>
 <ul>
@@ -84,17 +85,16 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 <img align="right" width="267" height="200" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/screenshot.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
- <li>A variable-width font has been implemented.</li>
- <li>All textures/graphics have been translated into English and re-rendered.</li>
- <li>All in-game dialogue text has been translated and appears in English.</li>
- <li>All in-game cutscenes have been translated and subtitled in English.</li>
- <li>All unlockable character and costume names have been translated and appear in English.</li>
- <li>All mini-games have been translated and appear in English.</li>
- <li>All menu text/graphics has been translated and appears in English.</li>
- <li>VMU save file metadata has been translated and appears in English.</li>
- <li>Neo Geo Pocket Color link (for use with "Cool Cool Jam") messages have been translated and appear in English (see <a href="#neo-geo-pocket-color-link-feature">Neo Geo Pocket Color Link Feature</a> section).</li>
- <li>Broken 50hz mode when game detects PAL console with a non-VGA video cable has been fixed, now defaulting to 60hz NTSC (read more in <a href="https://twitter.com/DerekPascarella/status/1685997122502426624">this Twitter post</a>).</li>
- <li>The built-in "INTERNET GATE" has been replaced with special bonus content (see <a href="#bonus-content">Bonus Content</a> section).</li>
+ <li>A new ASCII font has been implemented.</li>
+ <li>All textures/graphics have been translated into English, in addition to correction of misspelled English place names (e.g., street signs) in order to align with official Western release of "Death Crimson OX".</li>
+ <li>All in-game dialogue/menu/message text has been translated into English.</li>
+ <li>All in-game cutscene videos have been translated and subtitled in English, with special optimizations made for CDI version of the patch (see <a href="#a-note-for-cdr-users">A Note for CD-R Users</a>).</li>
+ <li>A bug has been fixed that prevented a certain piece of dialogue text from being rendered.</li>
+ <li>Title screen graphics have been improved and re-rendered.</li>
+ <li>All unlockable "Mission Mode" stages are enabled by default.</li>
+ <li>VMU save file metadata has been translated into English.</li>
+ <li>A brand-new cheat function has been implemented (see <a href="#cheat-function">Cheat Function</a> section).</li>
+ <li>The built-in web browser has been replaced with special bonus content (see <a href="#bonus-content">Bonus Content</a> section).</li>
   <ul>
    <li>Previously this portion of the game was inaccessible to those who've never configured ISP settings on their Dreamcast, but this requirement has been removed.</li>
   </ul>
