@@ -30,6 +30,7 @@
 </ul>
 
 <h2>Credits</h2>
+<img align="right" width="180" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/vmu.gif?raw=true">
 <ul>
  <li><b>Programming / Hacking</b></li>
   <ul>
@@ -124,7 +125,7 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 <td><b>Supported Peripherals</b></td>
 <td>VGA Box, Jump Pack, Controller, Light Gun, VMU, Microphone</td>
 </table>
-<img align="right" width="180" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/vmu.gif?raw=true">"Death Crimson 2: Altar of Melanito" (デスクリムゾン２ −メラニートの祭壇−) is a sequel to the original "Death Crimson" game on the SEGA Saturn. Unlike its predecessor, the sequel features a full story mode, fleshing out the backstory behind the game's numerous characters, while also introducing new ones.
+"Death Crimson 2: Altar of Melanito" (デスクリムゾン２ −メラニートの祭壇−) is a sequel to the original "Death Crimson" game on the SEGA Saturn. Unlike its predecessor, the sequel features a full story mode, fleshing out the backstory behind the game's numerous characters, while also introducing new ones.
 <br><br>
 Players can use either the standard Dreamcast controller or light gun during the shooting sections of the game.
 
@@ -143,7 +144,11 @@ To coincide with the release of this English translation patch, this soundtrack 
 
 <h2>Voice Recording Feature</h2>
 <img align="right" width="188" height="250" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/microphone.jpg?raw=true">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
+"Death Crimson 2: Altar of Melanito" features unique support for the Dreamcast microphone. Players have the ability to record three, three-second voice clips to be played back during the game whenever the player sustains damage.
+<br><br>
+To access the voice recording feature, navigate to "OPTIONS" from the title screen. From there, select "Damage Voice Settings", then "Record voice clip".
+<br><br>
+Players are given the choice between recording voice data in either 8-bit or 16-bit PCM samples, the latter of the two consuming more space on the VMU.
 
 <h2>A Note for CD-R Users</h2>
 <img align="right" width="267" height="200" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/cdi.jpg?raw=true">A tremendous amount of additional modification and testing was done for this patch in order to provide those burning to disc (and not using an ODE or emulator) the smoothest possible gaming experience.
