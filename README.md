@@ -357,7 +357,7 @@ If possible, these compatibility issues with be debugged and fixed in a future v
     <td>Japanese</td>
     <td>VGA</td>
     <td>North American</td>
-    <td>Yes</td>
+    <td>?</td>
   </tr>
   <tr>
     <td>Japanese</td>
@@ -369,7 +369,7 @@ If possible, these compatibility issues with be debugged and fixed in a future v
     <td>Japanese</td>
     <td>VGA</td>
     <td>Japanese</td>
-    <td>?</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <td>Japanese</td>
