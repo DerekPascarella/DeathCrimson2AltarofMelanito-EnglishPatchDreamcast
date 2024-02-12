@@ -175,10 +175,9 @@ Walk / Run</td>
 Directional pad / Analog stick</td>
 </tr>
 </table>
-<br>
-It's suggested that players use a standard controller in port 1 in order to best navigate "Story Mode", while keeping a light gun in port 2 for shooting stages.
-<br><br>
 Note that "Death Crimson 2: Altar of Melanito" leverages "tank controls" similar to popular survival horror games.
+<br><br>
+It's suggested that players use a standard controller in port 1 in order to best navigate "Story Mode", while keeping a light gun in port 2 for shooting stages.
 
 <h2>Bonus Content</h2>
 <img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
