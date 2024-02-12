@@ -134,7 +134,7 @@ Players can use either the standard Dreamcast controller or light gun during the
 <table>
 <tr>
 <td>
-Proceed with dialogue / Confirm selection / Shoot</td>
+Proceed dialogue / Confirm / Shoot</td>
 <td>
 A button</td>
 </tr>
