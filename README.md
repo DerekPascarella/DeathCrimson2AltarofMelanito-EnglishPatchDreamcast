@@ -185,13 +185,13 @@ It's suggested that players use a standard controller in port 1 in order to best
 To return to the game from the bonus content section, press L on the controller, then select "EXIT TO GAME".
 <br><br>
 <ul>
- <li><b>SATURN THEME SONG</b><br>Take a trip to renowned video game composer Kunitaka Watanabe's studio and watch him play the theme song from the first "Death Crimson" game on the SEGA Saturn.</li>
+ <li><b>SEGA Saturn Theme Song</b><br>Take a trip to renowned video game composer Kunitaka Watanabe's studio and watch him play the theme song from the first "Death Crimson" game on the SEGA Saturn.</li>
  <br>
- <li><b>SATURN OPENING</b><br>Watch the opening video from the original SEGA Saturn game, fully subtitled in English. Note that this video can also be encountered under special circumstances in "Death Crimson 2" itself.</li>
+ <li><b>SEGA Saturn Opening Video</b><br>Watch the opening video from the original SEGA Saturn game, fully subtitled in English. Note that this video can also be encountered under special circumstances in "Death Crimson 2" itself.</li>
  <br>
- <li><b>ENDING THEME MUSIC</b><br>Listen to the beautiful ending theme music from the game ("Maybe Someday"), composed by Masafumi Ogata and sung by Momo Michishita (aka MOMO), who also voiced the character of Yuri.</li>
+ <li><b>Ending Theme Music</b><br>Listen to the beautiful ending theme music from the game ("Maybe Someday"), composed by Masafumi Ogata and sung by Momo Michishita (aka MOMO), who also voiced the character of Yuri.</li>
  <br>
- <li><b>FAN MESSAGES</b><br>Browse the archive of fan support messages from Ecole Software's now-offline official "Death Crimson 2" website, machine-translated into English.</li>
+ <li><b>Fan Messages</b><br>Browse the archive of fan support messages from Ecole Software's now-offline official "Death Crimson 2" website, machine-translated into English.</li>
 </ul>
 
 <h2>Cheat Function</h2>
