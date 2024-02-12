@@ -19,7 +19,7 @@
 8. [Bonus Content](#bonus-content)
 9. [Cheat Function](#cheat-function)
 10. [Original Soundtrack](#original-soundtrack)
-11. [Voice Recording Feature](#voice-recording)
+11. [Voice Recording Feature](#voice-recording-feature)
 12. [A Note for CD-R Users](#a-note-for-cd-r-users)
 13. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
 
