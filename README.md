@@ -222,4 +222,183 @@ Previous CDI releases of the game handled this horribly, with no optimizations i
 However, players must bare in mind that despite said optimizations, experiencing this game via CD-R will still be suboptimal. Players will notice a moment or two where on-screen subtitles do not perfectly align with spoken dialogue. Please recognize that this is not a bug, but in fact a limitation of the Dreamcast's CD-ROM reading speed.
 
 <h2>A Note on Light Gun Compatibility</h2>
-<img align="right" width="200" height="200" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/lightgun.jpg?raw=true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
+<img align="right" width="200" height="200" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/lightgun.jpg?raw=true">In the past, it's been reported that "Death Crimson 2: Altar of Melanito" suffers from compatibility problems when using a European Dreamcast with certain video cables and/or certain light guns. During the development of this patch, numerous people helped to test and verify certain claims, while dispelling others. That said, many console/cable/light gun combinations remain untested.
+<br><br>
+If players find a working or non-working hardware combination not present on the compatibility matrix below, it's asked that they submit them <a href="https://dreamcastforever.com/?page=contact_information">via email</a>.
+<br><br>
+If possible, these compatibility issues with be debugged and fixed in a future version of this English translation patch. However, without physical development kit hardware, this task remains highly difficult.
+<br><br>
+<table>
+<thead>
+  <tr>
+    <th>Console Region</th>
+    <th>Cable Type</th>
+    <th>Light Gun Region</th>
+    <th>Compatible</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>North American</td>
+    <td>VGA</td>
+    <td>North American</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>VGA</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>VGA</td>
+    <td>Japanese</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>SCART</td>
+    <td>North American</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>SCART</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>SCART</td>
+    <td>Japanese</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>Composite/S-Video</td>
+    <td>North American</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>Composite/S-Video</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>North American</td>
+    <td>Composite/S-Video</td>
+    <td>Japanese</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>VGA</td>
+    <td>North American</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>VGA</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>VGA</td>
+    <td>Japanese</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>SCART</td>
+    <td>North American</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>SCART</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>SCART</td>
+    <td>Japanese</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>Composite/S-Video</td>
+    <td>North American</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>Composite/S-Video</td>
+    <td>European</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>European</td>
+    <td>Composite/S-Video</td>
+    <td>Japanese</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>VGA</td>
+    <td>North American</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>VGA</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>VGA</td>
+    <td>Japanese</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>SCART</td>
+    <td>North American</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>SCART</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>SCART</td>
+    <td>Japanese</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>Composite/S-Video</td>
+    <td>North American</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>Composite/S-Video</td>
+    <td>European</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>Composite/S-Video</td>
+    <td>Japanese</td>
+    <td>?</td>
+  </tr>
+</tbody>
+</table>
