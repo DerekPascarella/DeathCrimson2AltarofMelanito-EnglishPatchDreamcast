@@ -180,7 +180,19 @@ Note that "Death Crimson 2: Altar of Melanito" leverages "tank controls" similar
 It's suggested that players use a standard controller in port 1 in order to best navigate "Story Mode", while keeping a light gun in port 2 for shooting stages.
 
 <h2>Bonus Content</h2>
-<img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
+<img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Unique and brand-new for this patch is a collection of bonus content for players to enjoy. To access this content, select "BONUS CONTENT" from the title screen menu, which will launch a <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?t=14611">modified version of the Dream Passport web browser</a>.
+<br><br>
+To return to the game from the bonus content section, press L on the controller, then select "EXIT TO GAME".
+<br><br>
+<ul>
+ <li><b>SATURN THEME SONG</b><br>Take a trip to renowned video game composer Kunitaka Watanabe's studio and watch him play the theme song from the first "Death Crimson" game on the SEGA Saturn.</li>
+ <br>
+ <li><b>SATURN OPENING</b><br>Watch the opening video from the original SEGA Saturn game, fully subtitled in English. Note that this video can also be encountered under special circumstances in "Death Crimson 2" itself.</li>
+ <br>
+ <li><b>ENDING THEME MUSIC</b><br>Listen to the beautiful ending theme music from the game ("Maybe Someday"), composed by Masafumi Ogata and sung by Momo Michishita (aka MOMO), who also voiced the character of Yuri.</li>
+ <br>
+ <li><b>FAN MESSAGES</b><br>Browse the archive of fan support messages from Ecole Software's now-offline official "Death Crimson 2" website, machine-translated into English.</li>
+</ul>
 
 <h2>Cheat Function</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
@@ -196,7 +208,7 @@ To coincide with the release of this English translation patch, this soundtrack 
 <img align="right" width="188" height="250" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/microphone.jpg?raw=true">
 "Death Crimson 2: Altar of Melanito" features unique support for the Dreamcast microphone. Players have the ability to record three, three-second voice clips to be played back during the game whenever the player sustains damage.
 <br><br>
-To access the voice recording feature, navigate to "OPTIONS" from the title screen. From there, select "Damage Voice Settings", then "Record voice clip". Note that one can also choose to use the built-in voice clips for either Kou, Yuri, or Pat.
+To access the voice recording feature, navigate to "OPTIONS" from the title screen menu. From there, select "Damage Voice Settings", then "Record voice clip". Note that one can also choose to use the built-in voice clips for either Kou, Yuri, or Pat.
 <br><br>
 Players are given the choice between recording voice data in either 8-bit or 16-bit PCM samples, the latter of the two consuming more space on the VMU.
 
