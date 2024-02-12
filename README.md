@@ -1,4 +1,4 @@
-<h1>Death Crimson 2</h1>
+<h1>Death Crimson 2: Altar of Melanito</h1>
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/case.png?raw=true">Download the English translation patch (more information in the <a href="#patching-instructions">Patching Instructions</a> section).
 <br><br>
 <ul>
@@ -19,7 +19,7 @@
 8. [Cheat Function](#cheat-function)
 9. [Original Soundtrack](#original-soundtrack)
 10. [Voice Recording Feature](#voice-recording)
-11. [A Note for CD-R Users](#a-note-for-cdr-users)
+11. [A Note for CD-R Users](#a-note-for-cd-r-users)
 12. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
 
 <h2>Patching Instructions</h2>
@@ -88,7 +88,8 @@ Even after extensive testing on both real hardware and on emulators, the presenc
  <li>A new ASCII font has been implemented.</li>
  <li>All textures/graphics have been translated into English, in addition to correction of misspelled English place names (e.g., street signs) in order to align with official Western release of "Death Crimson OX".</li>
  <li>All in-game dialogue/menu/message text has been translated into English.</li>
- <li>All in-game cutscene videos have been translated and subtitled in English, with special optimizations made for CDI version of the patch (see <a href="#a-note-for-cdr-users">A Note for CD-R Users</a>).</li>
+ <li>All in-game cutscene videos have been translated and subtitled in English, with special optimizations made for CDI version of the patch (see <a href="#a-note-for-cd-r-users">A Note for CD-R Users</a>).</li>
+ <li>New code for VMU icon supported has been added to the game (read more in <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?f=52&t=17030&start=10#p182850">this Dreamcast-Talk.com forum post</a> and <a href="https://twitter.com/DerekPascarella/status/1750506678728933458">this Twitter post</a>).
  <li>A bug has been fixed that prevented a certain piece of dialogue text from being rendered.</li>
  <li>Title screen graphics have been improved and re-rendered.</li>
  <li>All unlockable "Mission Mode" stages are enabled by default.</li>
@@ -101,7 +102,30 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 </ul>
 
 <h2>About the Game</h2>
-xxxx
+<table>
+<tr>
+<td><b>Title</b></td>
+<td>Death Crimson 2: Altar of Melanito (デスクリムゾン２ −メラニートの祭壇−)</td>
+</tr>
+<tr>
+<td><b>Developer</b></td>
+<td>Ecole</td>
+</tr>
+<tr>
+<td><b>Publisher</b></td>
+<td>Ecole</td>
+</tr>
+<tr>
+<td><b>Release Date</b></td>
+<td>1999-11-25</td>
+</tr>
+<tr>
+<td><b>Supported Peripherals</b></td>
+<td>VGA Box, Jump Pack, Controller, VMU, Light Gun</td>
+</table>
+"Death Crimson 2: Altar of Melanito" (デスクリムゾン２ −メラニートの祭壇−) is a sequel to the original "Death Crimson" game on the SEGA Saturn. It features a full story mode, fleshing out the backstory behind the game's numerous characters, while also introducing new ones.
+<br><br>
+Players can use either the standard Dreamcast controller or light gun during the shooting sections of the game.
 
 <h2>Bonus Content</h2>
 xxxx
