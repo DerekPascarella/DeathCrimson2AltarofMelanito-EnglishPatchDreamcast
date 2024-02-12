@@ -177,7 +177,7 @@ Directional pad / Analog stick</td>
 </table>
 Note that "Death Crimson 2: Altar of Melanito" leverages "tank controls" similar to popular survival horror games.
 <br><br>
-It's suggested that players use a standard controller to navigate "Story Mode", while keeping a light gun only for shooting stages. Note that either the controller or the light gun can be inserted into ports 1 and 2, with both being available at any time during the game.
+It's suggested that players use a standard controller to navigate "Story Mode" while using a light gun only for shooting stages. Note that either the controller or the light gun can be inserted into ports 1 and 2, with both being available at any time during the game.
 
 <h2>Bonus Content</h2>
 <img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Unique and brand-new for this patch is a collection of bonus content for players to enjoy. To access this content, select "BONUS CONTENT" from the title screen menu, which will launch a <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?t=14611">modified version of the Dream Passport web browser</a>.
