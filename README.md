@@ -56,6 +56,10 @@
   <br>
   <li><b>Special Thanks</b></li>
   <ul>
+   <li>CDI Optimization Assistance</li>
+   <uL>
+    <li>Pitito</li>
+  </ul>
    <li>Light Gun Testers</li>
    <ul>
     <li>ItsMuchMore</li>
@@ -65,10 +69,6 @@
     <li>megavolt85</li>
     <li>amerika</li>
    </ul>
-   <li>CDI Optimization Assistance</li>
-   <uL>
-    <li>Pitito</li>
-  </ul>
 </ul>
 
 <h2>Release Changelog</h2>
