@@ -99,3 +99,24 @@ Even after extensive testing on both real hardware and on emulators, the presenc
    <li>Previously this portion of the game was inaccessible to those who've never configured ISP settings on their Dreamcast, but this requirement has been removed.</li>
   </ul>
 </ul>
+
+<h2>About the Game</h2>
+xxxx
+
+<h2>Bonus Content</h2>
+xxxx
+
+<h2>Cheat Function</h2>
+xxxx
+
+<h2>Original Soundtrack</h2>
+xxxx
+
+<h2>Voice Recording Feature</h2>
+xxxx
+
+<h2>A Note for CD-R Users</h2>
+xxxx
+
+<h2>A Note on Light Gun Compatibility</h2>
+xxxx
