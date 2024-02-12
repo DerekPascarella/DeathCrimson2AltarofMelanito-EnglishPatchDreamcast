@@ -15,12 +15,13 @@
 4. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 5. [What's Changed](#whats-changed)
 6. [About the Game](#about-the-game)
-7. [Bonus Content](#bonus-content)
-8. [Cheat Function](#cheat-function)
-9. [Original Soundtrack](#original-soundtrack)
-10. [Voice Recording Feature](#voice-recording)
-11. [A Note for CD-R Users](#a-note-for-cd-r-users)
-12. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
+7. [Controls](#controls)
+8. [Bonus Content](#bonus-content)
+9. [Cheat Function](#cheat-function)
+10. [Original Soundtrack](#original-soundtrack)
+11. [Voice Recording Feature](#voice-recording)
+12. [A Note for CD-R Users](#a-note-for-cd-r-users)
+13. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
 
 <h2>Patching Instructions</h2>
 <ul>
@@ -127,6 +128,9 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 "Death Crimson 2: Altar of Melanito" (デスクリムゾン２ −メラニートの祭壇−) is a sequel to the original "Death Crimson" game on the SEGA Saturn. Unlike its predecessor, the sequel features a full story mode, fleshing out the backstory behind the game's numerous characters, while also introducing new ones.
 <br><br>
 Players can use either the standard Dreamcast controller or light gun during the shooting sections of the game.
+
+<h2>Controls</h2>
+<img align="right" width="180" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/vmu.gif?raw=true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
 
 <h2>Bonus Content</h2>
 <img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
