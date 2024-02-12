@@ -327,7 +327,7 @@ If possible, these compatibility issues with be debugged and fixed in a future v
     <td>European</td>
     <td>SCART</td>
     <td>European</td>
-    <td>?</td>
+    <td>No</td>
   </tr>
   <tr>
     <td>European</td>
