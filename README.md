@@ -198,7 +198,7 @@ To return to the game from the bonus content section, press L on the controller,
 A brand-new cheat function was implemented for this English translation patch to aid players who are interested in experiencing the story of "Death Crimson 2: Altar of Melanito" without being forced to replay numerous difficult stages repeatedly.
 <br><br>
 To take advantage of this new feature, at any point during shooting gameplay or free-roaming gameplay, a player can simultaneously press the L and R trigger buttons once. The following real-time cheats will be applied.
-<br>
+<br><br>
 <ul>
  <li>Credit count will be reset to 255.</li>
  <li>Any countdown clock will be reset to 15 minutes.</li>
