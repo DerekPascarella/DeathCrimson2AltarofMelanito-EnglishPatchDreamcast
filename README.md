@@ -166,7 +166,7 @@ Y button</td>
 <td>
 Run</td>
 <td>
-Hold X button while using directional pad</td>
+Hold X button with directional pad</td>
 </tr>
 <tr>
 <td>
