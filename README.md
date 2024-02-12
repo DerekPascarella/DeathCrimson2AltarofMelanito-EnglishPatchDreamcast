@@ -138,7 +138,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel
 <br><br>
 To learn more about the soundtrack, including credits for songwriters, music arrangers, and vocalists, visit its entry on <a href="https://vgmdb.net/album/9438">VGMdb</a>.
 <br><br>
-<a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">Download</a> the soundtrack in FLAC, MP3, and OGG formats.
+To coincide with the release of this English translation patch, this soundtrack was procured from Japan (read more in <a href="https://twitter.com/DerekPascarella/status/1752792117070504093">this Twitter post</a>) and is available for <a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">download</a> in FLAC, MP3, and OGG formats.
 
 <h2>Voice Recording Feature</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
