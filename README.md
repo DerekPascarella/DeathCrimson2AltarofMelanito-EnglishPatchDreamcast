@@ -134,7 +134,9 @@ Players can use either the standard Dreamcast controller or light gun during the
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
 
 <h2>Original Soundtrack</h2>
-<img align="right" width="168" height="165" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/ost.jpg?raw=true">Along with the game's release on November 25th, 1999, an original soundtrack was sold under the title <a href="https://vgmdb.net/album/9438">"Death Crimson 2 - Yuri Rosenberg"</a>. The soundtrack features 15 individual tracks, all of which can be heard throughout the Dreamcast game itself.
+<img align="right" width="168" height="165" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/ost.jpg?raw=true">Along with the game's release on November 25th, 1999, an original soundtrack was sold under the title "Death Crimson 2 - Yuri Rosenberg". The soundtrack features 15 individual tracks, all of which can be heard throughout the Dreamcast game itself.
+<br><br>
+To learn more about the soundtrack, including credits for songwriters, music arrangers, and vocalists, visit its entry on <a href="https://vgmdb.net/album/9438">VGMdb</a>.
 <br><br>
 <a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">Download</a> the soundtrack in FLAC, MP3, and OGG formats.
 
