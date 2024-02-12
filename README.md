@@ -30,7 +30,6 @@
 </ul>
 
 <h2>Credits</h2>
-<img align="right" width="180" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/vmu.gif?raw=true">
 <ul>
  <li><b>Programming / Hacking</b></li>
   <ul>
@@ -146,7 +145,7 @@ To coincide with the release of this English translation patch, this soundtrack 
 <img align="right" width="188" height="250" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/microphone.jpg?raw=true">
 "Death Crimson 2: Altar of Melanito" features unique support for the Dreamcast microphone. Players have the ability to record three, three-second voice clips to be played back during the game whenever the player sustains damage.
 <br><br>
-To access the voice recording feature, navigate to "OPTIONS" from the title screen. From there, select "Damage Voice Settings", then "Record voice clip".
+To access the voice recording feature, navigate to "OPTIONS" from the title screen. From there, select "Damage Voice Settings", then "Record voice clip". Note that one can also choose to use the built-in voice clips for either Kou, Yuri, or Pat.
 <br><br>
 Players are given the choice between recording voice data in either 8-bit or 16-bit PCM samples, the latter of the two consuming more space on the VMU.
 
