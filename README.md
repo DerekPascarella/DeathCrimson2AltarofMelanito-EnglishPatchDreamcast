@@ -130,7 +130,55 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 Players can use either the standard Dreamcast controller or light gun during the shooting sections of the game.
 
 <h2>Controls</h2>
-<img align="right" width="180" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/vmu.gif?raw=true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
+<img align="right" width="180" height="320" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/vmu.gif?raw=true">
+<table>
+<tr>
+<td>
+Proceed with dialogue / Confirm selection / Shoot</td>
+<td>
+A button</td>
+</tr>
+<tr>
+<td>
+Go back / Exit menu / Reload</td>
+<td>
+B button</td>
+</tr>
+<tr>
+<td>
+Auto-pilot dialogue progression</td>
+<td>
+Hold L/R buttons</td>
+</tr>
+<tr>
+<td>
+Pause</td>
+<td>
+Start button</td>
+</tr>
+<tr>
+<td>
+Swap character</td>
+<td>
+Y button</td>
+</tr>
+<tr>
+<td>
+Run</td>
+<td>
+Hold X button while using directional pad</td>
+</tr>
+<tr>
+<td>
+Walk / Run</td>
+<td>
+Directional pad / Analog stick</td>
+</tr>
+</table>
+<br>
+It's suggested that players use a standard controller in port 1 in order to best navigate "Story Mode", while keeping a light gun in port 2 for shooting stages.
+<br><br>
+Note that "Death Crimson 2: Altar of Melanito" leverages "tank controls" similar to popular survival horror games.
 
 <h2>Bonus Content</h2>
 <img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
