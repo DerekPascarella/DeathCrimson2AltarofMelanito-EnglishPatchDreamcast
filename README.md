@@ -177,7 +177,7 @@ Directional pad / Analog stick</td>
 </table>
 Note that "Death Crimson 2: Altar of Melanito" leverages "tank controls" similar to popular survival horror games.
 <br><br>
-It's suggested that players use a standard controller in port 1 in order to best navigate "Story Mode", while keeping a light gun in port 2 for shooting stages.
+It's suggested that players use a standard controller to navigate "Story Mode", while keeping a light gun only for shooting stages. Note that either the controller or the light gun can be inserted into ports 1 and 2, with both being available at any time during the game.
 
 <h2>Bonus Content</h2>
 <img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Unique and brand-new for this patch is a collection of bonus content for players to enjoy. To access this content, select "BONUS CONTENT" from the title screen menu, which will launch a <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?t=14611">modified version of the Dream Passport web browser</a>.
@@ -195,7 +195,14 @@ To return to the game from the bonus content section, press L on the controller,
 </ul>
 
 <h2>Cheat Function</h2>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus nisi vel massa interdum sollicitudin. Nam vel sollicitudin nibh. Donec sagittis mauris vel finibus bibendum. Proin vehicula sodales tellus quis interdum. Curabitur pretium nulla ut diam gravida, nec venenatis mauris eleifend. Maecenas eu magna ut ipsum dictum elementum. In hac habitasse platea dictumst. Morbi enim sem, dapibus eget cursus nec, tempus ut massa. Praesent id magna vel sapien luctus efficitur. In et interdum justo. Sed faucibus egestas nisi in bibendum. Donec non elit sollicitudin, porta nisl eu, vulputate turpis.
+A brand-new cheat function was implemented for this English translation patch to aid players who are interested in experiencing the story of "Death Crimson 2: Altar of Melanito" without being forced to replay numerous difficult stages repeatedly.
+<br><br>
+To take advantage of this new feature, at any point during shooting gameplay or free-roaming gameplay, a player can simultaneously press the L and R trigger buttons once. The following real-time cheats will be applied.
+<br>
+<ul>
+ <li>Credit count will be reset to 255.</li>
+ <li>Any countdown clock will be reset to 15 minutes.</li>
+</ul>
 
 <h2>Original Soundtrack</h2>
 <img align="right" width="168" height="165" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/ost.jpg?raw=true">Along with the game's release on November 25th, 1999, an original soundtrack was sold under the title "Death Crimson 2 - Yuri Rosenberg". The soundtrack features 15 individual tracks, all of which can be heard throughout the Dreamcast game itself.
