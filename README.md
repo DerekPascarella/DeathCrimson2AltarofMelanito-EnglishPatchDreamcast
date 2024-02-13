@@ -244,7 +244,7 @@ However, players must bare in mind that despite said optimizations, experiencing
 <br><br>
 If players find a working or non-working hardware combination not present on the compatibility matrix below, it's asked that they submit them <a href="https://dreamcastforever.com/?page=contact_information">via email</a>.
 <br><br>
-If possible, these compatibility issues with be debugged and fixed in a future version of this English translation patch. However, without physical development kit hardware, this task remains highly difficult.
+If possible, these compatibility issues will be debugged and fixed in a future version of this English translation patch. However, without physical development kit hardware, this task remains highly difficult.
 <br><br>
 <table>
 <thead>
