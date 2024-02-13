@@ -191,7 +191,7 @@ It's suggested that players use a standard controller to navigate "Story Mode" w
 "Death Crimson 2: Altar of Melanito" provides players with five individudal slots to which game progress can be saved throughout "Story Mode". There also exists a sixth auto-save slot, which always holds a player's most recent progress. This sixth slot cannot be manually written to in any way.
 
 <h2>Bonus Content</h2>
-<img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Unique and brand-new for this patch is a collection of bonus content for players to enjoy. To access this content, select "BONUS CONTENT" from the title screen menu, which will launch a <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?t=14611">modified version of the Dream Passport web browser</a>.
+<img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Unique and brand-new for this patch is a collection of bonus content for players to enjoy. To access this material, select "BONUS CONTENT" from the title screen menu, which will launch a <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?t=14611">modified version of the Dream Passport web browser</a>.
 <br><br>
 To return to the game from the bonus content section, press L on the controller, then select "EXIT TO GAME".
 <br><br>
