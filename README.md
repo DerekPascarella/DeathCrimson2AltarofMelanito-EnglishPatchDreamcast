@@ -259,165 +259,165 @@ If possible, these compatibility issues will be debugged and fixed in a future v
 </thead>
 <tbody>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>VGA</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>VGA</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>VGA</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>SCART</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>SCART</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>SCART</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>Composite/S-Video</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>Composite/S-Video</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>North American</td>
+    <td>North America</td>
     <td>Composite/S-Video</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>VGA</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>VGA</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>VGA</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>SCART</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>SCART</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>No</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>SCART</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>Composite/S-Video</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>Composite/S-Video</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>European</td>
+    <td>Europe</td>
     <td>Composite/S-Video</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>VGA</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>VGA</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>VGA</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>SCART</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>SCART</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>SCART</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>Composite/S-Video</td>
-    <td>North American</td>
+    <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>Composite/S-Video</td>
-    <td>European</td>
+    <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>Composite/S-Video</td>
-    <td>Japanese</td>
+    <td>Japan</td>
     <td>Yes</td>
   </tr>
 </tbody>
