@@ -193,7 +193,7 @@ It's suggested that players use a standard controller to navigate "Story Mode" w
 <h2>Bonus Content</h2>
 <img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Unique and brand-new for this patch is a collection of bonus content for players to enjoy. To access this material, select "BONUS CONTENT" from the title screen menu, which will launch a <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?t=14611">modified version of the Dream Passport web browser</a>.
 <br><br>
-To return to the game from the bonus content section, press L on the controller, then select "EXIT TO GAME".
+To return to the game from the bonus content section, press L or R trigger buttons on the controller, then select "EXIT TO GAME".
 <br><br>
 <ul>
  <li><b>SEGA Saturn Theme Song</b><br>Take a trip to renowned video game composer Kunitaka Watanabe's studio and watch him play the theme song from the first "Death Crimson" game on the SEGA Saturn.</li>
