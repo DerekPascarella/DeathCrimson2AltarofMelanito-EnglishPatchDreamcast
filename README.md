@@ -79,7 +79,7 @@
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.0 (2024-XX-XX)</li>
+ <li>Version 1.0 (2024-02-13)</li>
  <ul>
   <li>Initial release.</li>
  </ul>
