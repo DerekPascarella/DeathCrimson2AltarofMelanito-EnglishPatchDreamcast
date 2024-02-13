@@ -186,6 +186,8 @@ Directional pad / Analog stick</td>
 Note that "Death Crimson 2: Altar of Melanito" leverages "tank controls" similar to popular survival horror games.
 <br><br>
 It's suggested that players use a standard controller to navigate "Story Mode" while using a light gun only for shooting stages. Note that either the controller or the light gun can be inserted into ports 1 and 2, with both being available at any time during the game.
+<br><br>
+During shooting gameplay, rapid fire is achievable by holding down the A button and allowing the "Energy" meter to fill up. Upon releasing the A button, the player will immediately engage in rapid fire shots. Note that this can only be done once the "Evolution" meter is sufficiently full.
 
 <h2>Progress Saving System</h2>
 "Death Crimson 2: Altar of Melanito" provides players with five individudal slots to which game progress can be saved throughout "Story Mode". There also exists a sixth auto-save slot, which always holds a player's most recent progress. This sixth slot cannot be manually written to in any way.
