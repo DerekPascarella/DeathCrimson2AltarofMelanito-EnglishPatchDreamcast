@@ -66,7 +66,7 @@
    <uL>
     <li>Pitito</li>
   </ul>
-   <li>Light Gun Testers</li>
+   <li>Light Gun Testing</li>
    <ul>
     <li>ItsMuchMore</li>
     <li>Peter Bray</li>
