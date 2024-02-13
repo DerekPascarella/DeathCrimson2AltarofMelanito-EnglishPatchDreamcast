@@ -16,12 +16,13 @@
 5. [What's Changed](#whats-changed)
 6. [About the Game](#about-the-game)
 7. [Controls](#controls)
-8. [Bonus Content](#bonus-content)
-9. [Cheat Function](#cheat-function)
-10. [Original Soundtrack](#original-soundtrack)
+8. [Progress Saving System](#progress-saving-system)
+9. [Bonus Content](#bonus-content)
+10. [Cheat Function](#cheat-function)
 11. [Voice Recording Feature](#voice-recording-feature)
-12. [A Note for CD-R Users](#a-note-for-cd-r-users)
-13. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
+12. [Original Soundtrack](#original-soundtrack)
+13. [A Note for CD-R Users](#a-note-for-cd-r-users)
+14. [A Note on Light Gun Compatibility](#a-note-on-light-gun-compatibility)
 
 <h2>Patching Instructions</h2>
 <ul>
@@ -54,6 +55,11 @@
    <li>Derek Pascarella (ateam)</li>
   </ul>
   <br>
+ <li><b>Editing</b></li>
+  <ul>
+   <li>Derek Pascarella (ateam)</li>
+  </ul>
+ <br>
   <li><b>Special Thanks</b></li>
   <ul>
    <li>CDI Optimization Assistance</li>
@@ -179,6 +185,9 @@ Note that "Death Crimson 2: Altar of Melanito" leverages "tank controls" similar
 <br><br>
 It's suggested that players use a standard controller to navigate "Story Mode" while using a light gun only for shooting stages. Note that either the controller or the light gun can be inserted into ports 1 and 2, with both being available at any time during the game.
 
+<h2>Progress Saving System</h2>
+"Death Crimson 2: Altar of Melanito" provides players with five individudal slots to which game progress can be saved throughout "Story Mode". There also exists a sixth auto-save slot, which always holds a player's most recent progress. This sixth slot cannot be manually written to in any way.
+
 <h2>Bonus Content</h2>
 <img align="right" width="267" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/bonus.gif?raw=true">Unique and brand-new for this patch is a collection of bonus content for players to enjoy. To access this content, select "BONUS CONTENT" from the title screen menu, which will launch a <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?t=14611">modified version of the Dream Passport web browser</a>.
 <br><br>
@@ -204,13 +213,6 @@ To take advantage of this new feature, at any point during shooting gameplay or 
  <li>Any countdown clock will be reset to 15 minutes.</li>
 </ul>
 
-<h2>Original Soundtrack</h2>
-<img align="right" width="168" height="165" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/ost.jpg?raw=true">Along with the game's release on November 25th, 1999, an original soundtrack was sold under the title "Death Crimson 2 - Yuri Rosenberg". The soundtrack features 15 individual tracks, all of which can be heard throughout the Dreamcast game itself.
-<br><br>
-To learn more about the soundtrack, including credits for songwriters, music arrangers, and vocalists, visit its entry on <a href="https://vgmdb.net/album/9438">VGMdb</a>.
-<br><br>
-To coincide with the release of this English translation patch, this soundtrack was procured from Japan (read more in <a href="https://twitter.com/DerekPascarella/status/1752792117070504093">this Twitter post</a>) and is available for <a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">download</a> in FLAC, MP3, and OGG formats.
-
 <h2>Voice Recording Feature</h2>
 <img align="right" width="169" height="225" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/microphone.jpg?raw=true">
 "Death Crimson 2: Altar of Melanito" features unique support for the Dreamcast microphone. Players have the ability to record three, three-second voice clips to be played back during the game whenever the player sustains damage.
@@ -218,6 +220,13 @@ To coincide with the release of this English translation patch, this soundtrack 
 To access the voice recording feature, navigate to "OPTIONS" from the title screen menu. From there, select "Damage Voice Settings", then "Record voice clip". Note that one can also choose to use the built-in voice clips for either Kou, Yuri, or Pat.
 <br><br>
 Players are given the choice between recording voice data in either 8-bit or 16-bit PCM samples, the latter of the two consuming more space on the VMU.
+
+<h2>Original Soundtrack</h2>
+<img align="right" width="168" height="165" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/ost.jpg?raw=true">Along with the game's release on November 25th, 1999, an original soundtrack was sold under the title "Death Crimson 2 - Yuri Rosenberg". The soundtrack features 15 individual tracks, all of which can be heard throughout the Dreamcast game itself.
+<br><br>
+To learn more about the soundtrack, including credits for songwriters, music arrangers, and vocalists, visit its entry on <a href="https://vgmdb.net/album/9438">VGMdb</a>.
+<br><br>
+To coincide with the release of this English translation patch, this soundtrack was procured from Japan (read more in <a href="https://twitter.com/DerekPascarella/status/1752792117070504093">this Twitter post</a>) and is available for <a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">download</a> in FLAC, MP3, and OGG formats.
 
 <h2>A Note for CD-R Users</h2>
 <img align="right" width="267" height="200" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/cdi.jpg?raw=true">A tremendous amount of additional modification and testing was done for this patch in order to provide those burning to disc (and not using an ODE or emulator) the smoothest possible gaming experience.
