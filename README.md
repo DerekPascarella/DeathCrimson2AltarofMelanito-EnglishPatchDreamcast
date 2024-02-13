@@ -133,6 +133,8 @@ Even after extensive testing on both real hardware and on emulators, the presenc
 </table>
 "Death Crimson 2: Altar of Melanito" (デスクリムゾン２ −メラニートの祭壇−) is a sequel to the original "Death Crimson" game on the SEGA Saturn. Unlike its predecessor, the sequel features a full story mode, fleshing out the backstory behind the game's numerous characters, while also introducing new ones.
 <br><br>
+It’s important to note that "Death Crimson 2: Altar of Melanito" stands in stark contrast to "Death Crimson OX", which saw a Western release but completely stripped out the free-roaming story mode.
+<br><br>
 Players can use either the standard Dreamcast controller or light gun during the shooting sections of the game.
 
 <h2>Controls</h2>
