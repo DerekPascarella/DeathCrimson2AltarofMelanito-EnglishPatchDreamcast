@@ -156,7 +156,7 @@ B button</td>
 <td>
 <b>Auto-pilot dialogue progression</b></td>
 <td>
-Hold L/R buttons</td>
+Hold L or R button</td>
 </tr>
 <tr>
 <td>
