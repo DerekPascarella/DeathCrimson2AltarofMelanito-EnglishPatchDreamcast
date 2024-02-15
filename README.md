@@ -274,7 +274,7 @@ If possible, these compatibility issues will be debugged and fixed in a future v
     <td>North America</td>
     <td>VGA</td>
     <td>Japan</td>
-    <td>?</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <td>North America</td>
