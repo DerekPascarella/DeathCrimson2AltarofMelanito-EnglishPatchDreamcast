@@ -280,19 +280,19 @@ If possible, these compatibility issues will be debugged and fixed in a future v
   </tr>
   <tr>
     <td>North America</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>North America</td>
     <td>Yes (MadCatz works, InterAct doesn't)</td>
   </tr>
   <tr>
     <td>North America</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
     <td>North America</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>Japan</td>
     <td>No</td>
   </tr>
@@ -355,19 +355,19 @@ If possible, these compatibility issues will be debugged and fixed in a future v
   </tr>
   <tr>
     <td>Europe</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
     <td>Europe</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>Europe</td>
     <td>No</td>
   </tr>
   <tr>
     <td>Europe</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>Japan</td>
     <td>Yes</td>
   </tr>
@@ -431,19 +431,19 @@ If possible, these compatibility issues will be debugged and fixed in a future v
   </tr>
   <tr>
     <td>Japan</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>North America</td>
     <td>?</td>
   </tr>
   <tr>
     <td>Japan</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>Europe</td>
     <td>?</td>
   </tr>
   <tr>
     <td>Japan</td>
-    <td>SCART</td>
+    <td>SCART (240p/480i)</td>
     <td>Japan</td>
     <td>?</td>
   </tr>
