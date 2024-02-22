@@ -75,6 +75,7 @@
     <li>megavolt85</li>
     <li>amerika</li>
     <li>Shadowmask</li>
+    <li>Nachosonic</li>
    </ul>
 </ul>
 
@@ -281,7 +282,7 @@ If possible, these compatibility issues will be debugged and fixed in a future v
     <td>North America</td>
     <td>SCART</td>
     <td>North America</td>
-    <td>?</td>
+    <td>Yes (MadCatz works, InterAct doesn't)</td>
   </tr>
   <tr>
     <td>North America</td>
@@ -295,6 +296,27 @@ If possible, these compatibility issues will be debugged and fixed in a future v
     <td>Japan</td>
     <td>No</td>
   </tr>
+
+<tr>
+    <td>North America</td>
+    <td>Component (480i)</td>
+    <td>North America</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>North America</td>
+    <td>Component (480i)</td>
+    <td>Europe</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>North America</td>
+    <td>Component (480i)</td>
+    <td>Japan</td>
+    <td>Yes</td>
+  </tr>
+
+ 
   <tr>
     <td>North America</td>
     <td>Composite/S-Video</td>
@@ -311,7 +333,7 @@ If possible, these compatibility issues will be debugged and fixed in a future v
     <td>North America</td>
     <td>Composite/S-Video</td>
     <td>Japan</td>
-    <td>?</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <td>Europe</td>
@@ -349,6 +371,28 @@ If possible, these compatibility issues will be debugged and fixed in a future v
     <td>Japan</td>
     <td>Yes</td>
   </tr>
+
+
+<tr>
+    <td>Europe</td>
+    <td>Component (480i)</td>
+    <td>North America</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Europe</td>
+    <td>Component (480i)</td>
+    <td>Europe</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Europe</td>
+    <td>Component (480i)</td>
+    <td>Japan</td>
+    <td>?</td>
+  </tr>
+
+  
   <tr>
     <td>Europe</td>
     <td>Composite/S-Video</td>
@@ -403,6 +447,28 @@ If possible, these compatibility issues will be debugged and fixed in a future v
     <td>Japan</td>
     <td>?</td>
   </tr>
+
+
+<tr>
+    <td>Japan</td>
+    <td>Component (480i)</td>
+    <td>North America</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japan</td>
+    <td>Component (480i)</td>
+    <td>Europe</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Japan</td>
+    <td>Component (480i)</td>
+    <td>Japan</td>
+    <td>?</td>
+  </tr>
+
+  
   <tr>
     <td>Japan</td>
     <td>Composite/S-Video</td>
