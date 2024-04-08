@@ -232,7 +232,7 @@ Players are given the choice between recording voice data in either 8-bit or 16-
 <br><br>
 To learn more about the soundtrack, including credits for songwriters, music arrangers, and vocalists, visit its entry on <a href="https://vgmdb.net/album/9438">VGMdb</a>.
 <br><br>
-To coincide with the release of this English translation patch, this soundtrack was procured from Japan (read more in <a href="https://twitter.com/DerekPascarella/status/1752792117070504093">this Twitter post</a>) and is available for <a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">download</a> in FLAC, MP3, and OGG formats. Also included are scans of the inlays and spine card.
+To coincide with the release of this English translation patch, this soundtrack was procured from Japan (read more in <a href="https://twitter.com/DerekPascarella/status/1752792117070504093">this Twitter post</a>) and is available for <a href="https://mega.nz/folder/CM1lRA6S#S3TsOjU2tMOdYOEQrgfClA">download</a> in FLAC, MP3, OGG, and Redump formats. Also included are scans of the inlays and spine card.
 
 <h2>A Note for CD-R Users</h2>
 <img align="right" width="267" height="200" src="https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/blob/main/images/cdi.jpg?raw=true">A tremendous amount of additional modification and testing was done for this patch in order to provide those burning to disc (and not using an ODE or emulator) the smoothest possible gaming experience.
