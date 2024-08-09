@@ -76,6 +76,7 @@
     <li>amerika</li>
     <li>Shadowmask</li>
     <li>Nachosonic</li>
+    <li>Eric Duijits</li>
    </ul>
 </ul>
 
@@ -433,19 +434,19 @@ If possible, these compatibility issues will be debugged and fixed in a future v
     <td>Japan</td>
     <td>SCART (240p/480i)</td>
     <td>North America</td>
-    <td>?</td>
+    <td>Yes (MadCatz)</td>
   </tr>
   <tr>
     <td>Japan</td>
     <td>SCART (240p/480i)</td>
     <td>Europe</td>
-    <td>?</td>
+    <td>No</td>
   </tr>
   <tr>
     <td>Japan</td>
     <td>SCART (240p/480i)</td>
     <td>Japan</td>
-    <td>?</td>
+    <td>No</td>
   </tr>
 
 
