@@ -99,7 +99,7 @@ Even after extensive testing on both real hardware and on emulators, the presenc
  <li>All textures/graphics have been translated into English, in addition to correction of misspelled English place names (e.g., street signs) in order to align with official Western release of "Death Crimson OX".</li>
  <li>All in-game dialogue/menu/message text has been translated into English.</li>
  <li>All in-game cutscene videos have been translated and subtitled in English, with special optimizations made for CDI version of the patch (see <a href="#a-note-for-cd-r-users">A Note for CD-R Users</a>).</li>
- <li>New code for VMU icon supported has been added to the game (read more in <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?f=52&t=17030&start=10#p182850">this Dreamcast-Talk.com forum post</a> and <a href="https://twitter.com/DerekPascarella/status/1750506678728933458">this Twitter post</a>).
+ <li>New code for VMU icon support has been added to the game (read more in <a href="https://www.dreamcast-talk.com/forum/viewtopic.php?f=52&t=17030&start=10#p182850">this Dreamcast-Talk.com forum post</a> and <a href="https://twitter.com/DerekPascarella/status/1750506678728933458">this Twitter post</a>).
  <li>A bug has been fixed that prevented a certain piece of dialogue text from being displayed.</li>
  <li>Title screen graphics have been improved and re-rendered.</li>
  <li>All unlockable "Mission Mode" stages are enabled by default.</li>
