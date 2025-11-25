@@ -33,51 +33,55 @@
 
 <h2>Credits</h2>
 <ul>
- <li><b>Programming / Hacking</b></li>
+ <li><b>Programming / Hacking</b>
   <ul>
    <li>Derek Pascarella (ateam)</li>
   </ul>
-  <br>
-  <li><b>Translation</b></li>
+ </li>
+ <li><b>Translation</b>
   <ul>
    <li>Walnut</li>
    <li>Filler</li>
    <li>wiredcrackpot</li>
   </ul>
-  <br>
-  <li><b>Graphics</b></li>
+ </li>
+ <li><b>Graphics</b>
   <ul>
    <li>Derek Pascarella (ateam)</li>
   </ul>
-  <br>
-  <li><b>Video</b></li>
+ </li>
+ <li><b>Video</b>
   <ul>
    <li>Derek Pascarella (ateam)</li>
   </ul>
-  <br>
- <li><b>Editing</b></li>
+ </li>
+ <li><b>Editing</b>
   <ul>
    <li>Derek Pascarella (ateam)</li>
   </ul>
- <br>
-  <li><b>Special Thanks</b></li>
+ </li>
+ <li><b>Special Thanks</b>
   <ul>
-   <li>CDI Optimization Assistance</li>
-   <uL>
-    <li>Pitito</li>
+   <li>CDI Optimization Assistance
+    <ul>
+     <li>Pitito</li>
+    </ul>
+   </li>
+   <li>Light Gun Testing
+    <ul>
+     <li>ItsMuchMore</li>
+     <li>Peter Bray</li>
+     <li>Steve Wells</li>
+     <li>Roger Braunstein (partlyhuman)</li>
+     <li>megavolt85</li>
+     <li>amerika</li>
+     <li>Shadowmask</li>
+     <li>Nachosonic</li>
+     <li>Eric Duijits</li>
+    </ul>
+   </li>
   </ul>
-   <li>Light Gun Testing</li>
-   <ul>
-    <li>ItsMuchMore</li>
-    <li>Peter Bray</li>
-    <li>Steve Wells</li>
-    <li>Roger Braunstein (partlyhuman)</li>
-    <li>megavolt85</li>
-    <li>amerika</li>
-    <li>Shadowmask</li>
-    <li>Nachosonic</li>
-    <li>Eric Duijits</li>
-   </ul>
+ </li>
 </ul>
 
 <h2>Release Changelog</h2>
